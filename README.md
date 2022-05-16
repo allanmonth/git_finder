@@ -9,6 +9,7 @@ Projeto que consiste em consumir a API do Github e retornar o perfil de um usuá
 Como dito anteriormente, este projeto consome a API do Github. O usuário digita um @ do github e a aplicação retorna os dados da pessoa procurada.
 É retornado dados como: Foto de perfil do usuário, nome, biografia, quantidade de repositórios e seguidores. Além disso, é gerado o @ do usuário,
 que ao ser clicado, redireciona o usuário ao perfil do mesmo.
+Disponível em 2 idiomas: Português e Inglês.
 
 
 ## Demonstração
@@ -33,6 +34,7 @@ Para a realização desse projeto foram utilizadas as seguintes tecnologias/ling
 - [Chart.js](https://www.chartjs.org/)
 - [React Flip Move](https://github.com/joshwcomeau/react-flip-move)
 - [Styled Components](https://www.styled-components.com/)
+- [React Intl Universal](https://github.com/alibaba/react-intl-universal)
 
 
 ## Rodando localmente
