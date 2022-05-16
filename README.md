@@ -14,7 +14,7 @@ que ao ser clicado, redireciona o usuário ao perfil do mesmo.
 ## Demonstração
 
 Veja abaixo uma foto do projeto.
-[![Image from Gyazo](https://gyazo.com/dcf3d55996d999aebe436733ff3ac692)](https://gyazo.com/)
+[![Image from Gyazo](https://i.gyazo.com/dcf3d55996d999aebe436733ff3ac692.png)](https://gyazo.com/)
 
 Você pode conferir o resultado final em: https://gitfinder.vercel.app/
 
