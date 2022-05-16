@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 
 const defaultTitle = 'Git Finder';
 const defaultDescription = 'A nicer look at your GitHub profile. With charts!';
-const defaultOGURL = 'https://gitfinder.vercel.app';
+const defaultOGURL = 'https://gitfinder.allanmonth.vercel.app';
 const defaultOGImage = 'https://i.gyazo.com/dcf3d55996d999aebe436733ff3ac692.png';
 
 const Head = props => (

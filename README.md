@@ -16,7 +16,7 @@ que ao ser clicado, redireciona o usuário ao perfil do mesmo.
 Veja abaixo uma foto do projeto.
 [![Image from Gyazo](https://i.gyazo.com/dcf3d55996d999aebe436733ff3ac692.png)](https://gyazo.com/)
 
-Você pode conferir o resultado final em: https://gitfinder.vercel.app/
+Você pode conferir o resultado final em: https://gitfinder.allanmonth.vercel.app/
 
 
 ## Objetivo do projeto
