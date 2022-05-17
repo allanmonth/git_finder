@@ -22,8 +22,7 @@ Você pode conferir o resultado final em: https://gitfinder.allanmonth.vercel.ap
 
 ## Objetivo do projeto
 
-Foi realizado este projeto com o intuito de aplicar os conhecimentos sobre requisições HTTPS. Além disso, foi desenvolvido para aperfeiçoar os
-conhecimentos em Next.js e TypeScript.
+Foi realizado este projeto com o intuito de aplicar os conhecimentos sobre requisições HTTPS. Além disso, foi desenvolvido para aperfeiçoar os conhecimentos em Next.js e TypeScript.
 
 
 ## Stack utilizada
